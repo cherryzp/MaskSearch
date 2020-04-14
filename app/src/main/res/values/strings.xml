@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">마스크서치</string>
+
+    <string name="mask_green">4dd599</string>
+    <string name="mask_yellow">ffdc34</string>
+    <string name="mask_red">fa163f</string>
+    <string name="mask_grey">5b5656</string>
+
+    <string name="mask_info_1">- 서비스되는 재고 현황 정보는 데이터 처리 및\n
+전송으로 인해 실제 현장 판매처의 현황과\n
+5분~10분 정도의 차이가 있습니다.</string>
+    <string name="mask_info_2">- 일부 약국에서는 번호표 배부 후 판매하는\n
+약국도 있어 서비스되는 정보가 번호표 배부 현황을\n
+반영하지는 못하고 있습니다.</string>
+    <string name="mask_info_3">- 어려운 환경에서도 일선에서 공헌해주시는\n
+약사님, 우체국, 농협 종사자님들 감사합니다. !</string>
+
+    <string name="purchase_day">구매 대상자 요일</string>
+    <string name="purchase_day_info">태어난 년도의 끝자리에 따라 요일이 결정됩니다.</string>
+    
+    <string name="proxy_purchase_info">대리구매 대상</string>
+    <string name="proxy_purchase_member_1">- 장애인</string>
+    <string name="proxy_purchase_member_2">- 장기요양급여 수급자</string>
+    <string name="proxy_purchase_member_3">- 2010년 포함 그 이후 출생 어린이</string>
+    <string name="proxy_purchase_member_4">- 1940년 포함 그 이전 출생한 어르신</string>
+    <string name="proxy_purchase_member_5">* 영유아는 호흡에 장애를 줄 수 있어 마스크 미착용 권고</string>
+    
+    <string name="proxy_purchase_method">대리구매 방식</string>
+    <string name="proxy_purchase_method_1">주민등록상 동거인(장애인은 대리인)이 대리구매 대상자(어린이 등)의 5부제 요일에 구매가능</string>
+    
+    <string name="when_to_buy">구매 시기</string>
+    <string name="when_to_buy_1">- 3월 9일부터 대리구매 허용</string>
+    <string name="when_to_buy_2">* 우체국, 농협은 중복구매 확인시스템 구축 때까지 1인 1매 판매</string>
+    
+    <string name="required_documents">필요 서류</string>
+    <string name="required_documents_1">- 본인 신분증</string>
+    <string name="required_documents_2">- 주민등록등본(주민번호가 모드 기재된것)</string>
+    <string name="required_documents_3">- 장애인 복지카드(장애인등록증)</string>
+    <string name="required_documents_4">- 장기요양환자의 경우 증명서류</string>
+
+    <string name="consultation_guide">상담 안내</string>
+    <string name="consultation_guide_1">식품의약품안전처\n종합상담센터</string>
+    <string name="consultation_guide_1_phone">1577-1255</string>
+    <string name="consultation_guide_2">정부민원안내 콜센터</string>
+    <string name="consultation_guide_2_phone">110</string>
+
+    
+    <!--  앱 광고 배너 -->
+    <string name="admob_app_id">ca-app-pub-2488110704514213~4499998857</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2488110704514213/8624938510</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631733846834",
+    "firebase_url": "https://masksearch-79212.firebaseio.com",
+    "project_id": "masksearch-79212",
+    "storage_bucket": "masksearch-79212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631733846834:android:ae7d998195f2305285cd2b",
+        "android_client_info": {
+          "package_name": "com.cherryzp.masksearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631733846834-6ufb07tm2g8udvcbsauhetmg1j1h411i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cherryzp.masksearch",
+            "certificate_hash": "5f2b685083435f06bbdf776abd23397defe2e825"
+          }
+        },
+        {
+          "client_id": "631733846834-ordtnvcouacnm3ggr8f07v710o1ogljr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPWEL2JANhBAGeTQHqWbB0iEtf-V6m1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631733846834-ordtnvcouacnm3ggr8f07v710o1ogljr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
